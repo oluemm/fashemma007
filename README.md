@@ -21,8 +21,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a DevOps / Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Data Engineer and contributing to backend and server-side web applications.
+I am a DevOps / Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m working as a DevOps Engineer and contributing to backend and server-side web applications.
 
 - :zap: In my free time, I play [chess](https://www.chess.com/member/foe_007) and go swimming.
 
